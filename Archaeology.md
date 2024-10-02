@@ -1,10 +1,10 @@
 ---
-name: Archaeology
-topic: Archaeology
+name: ArchaeologicalScience
+topic: Archaeological Science
 maintainer: Ben Marwick, Bjørn Peare Bartholdy, Nicolas Frerebeau, Sam Leggett, Sarah Pederzani, Joe Roe, Sophie C. Schmidt, Laure Spake, Lisa Steinmann, Liying Wang, Jesse Wolfhagen
 email: benmarwick@gmail.com
-version: 2023-09-19
-source: https://github.com/cran-task-views/Archaeology
+version: 2024-10-02
+source: https://github.com/cran-task-views/ArchaeologicalScience
 ---
 
 This task view is a list of packages useful for archaeological science. It includes packages for working with distinctive types of archaeological data, such as radiocarbon ages, various types of artefacts (lithics, pottery, etc.), faunal remains, geoarchaeological and landscape data, packages containing archaeological datasets, and packages from closely related sciences, such as environmental science, that are widely used by archaeologists. This is a list to help archaeologists in their search for packages relevant to their research. It does not include packages for general purpose tasks such as importing/exporting data, data manipulation, common forms of data analysis and visualization, and doing reproducible research. These may be found in other CRAN Task Views, especially `r view("Environmetrics")`, `r view("Spatial")`, `r view("Multivariate")`, `r view("Phylogenetics")`, `r view("Cluster")`, `r view("ReproducibleResearch")`, `r view("WebTechnologies")`, `r view("MachineLearning")`, and `r view("SpatioTemporal")`. To minimise overlap we do not include those packages in this list. This list assumes some familiarity with using R and is not an introduction to using R in archaeology (see the links below for introductory resources).
