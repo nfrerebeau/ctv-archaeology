@@ -57,6 +57,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 - `r pkg("SPARTAAS")` and `r pkg("kairos")` provide methods for statistical pattern recognition, time range plotting and seriation plots of archaeological artefacts.
 - `r pkg("eratosthenes")` provides a coherent foundation for archaeological chronology-building by incorporating, computationally, all relevant sources of information on uncertain archaeological or historical dates.
 - `r pkg("datplot")` converts date ranges into dating 'steps' to ease the visualization of changes in e.g. pottery consumption, style and other variables over time.
+- `r pkg("chronochrt")` offers an easy way to draw chronological charts from tables.
 
 - The `r github("davidcorton/archSeries")` package makes chronologies from information from multiple entities with varying chronological resolution and overlapping date ranges.
 
