@@ -134,7 +134,6 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 - `r pkg("binford")` contains more than 200 variables coding aspects of hunter-gatherer subsistence, mobility, and social organization for 339 ethnographically documented groups of hunter-gatherers, as used in Binford (2001) _Constructing Frames of Reference: An Analytical Method for Archaeological Theory Building Using Ethnographic and Environmental Data Sets_.
 - `r pkg("folio")` provides several types of data related to broad topics (cultural evolution, radiocarbon dating, paleoenvironments, etc.), which can be used to illustrate statistical methods in the classroom (multivariate data analysis, compositional data analysis, diversity measurement, etc.).
 - `r pkg("gsloid")` Contains published data sets for global benthic d18O data for 0-5.3 Myr and global sea levels based on marine sediment core data for 0-800 ka.
-- `r pkg("chemometrics")` contains a dataset of elemental concentrations for 180 archaeological glass vessels excavated from 15th - 17th century contexts in Antwerp.
 - `r pkg("datplot")` contains a data set on Inscriptions from Bithynia as used in B. Weissova (2019) _Regional Economy, Settlement Patterns and the Road System in Bithynia (4th Century BC-6th Century AD). Spatial and Quantitative Analysis_ suitable for geographical and chronological analysis.
 
 - `r github("geanes/bioanth")` contains three osteometric datasets useful for biological and forensic anthropology.
