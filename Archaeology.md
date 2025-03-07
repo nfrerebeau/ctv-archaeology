@@ -96,7 +96,7 @@ Radiocarbon ages can be calibrated using many of the packages in this section:
 ### Survey, Excavation, and Stratigraphic Analysis
 
 - `r pkg("archeoViz")` is a packaged R Shiny application for the 2D and 3D visualization, exploration, and web communication of spatial data from archaeological excavations.
-- `r pkg("archeofrag")` for refitting and stratigraphic analysis in archaeology.
+- `r pkg("archeofrag")` for refitting and stratigraphic analysis in archaeology (`r pkg("archeofrag.gui")` provides a graphical user interface that implements and complements some features of the `archeofrag` package).
 - `r pkg("recexcavAAR")` for 3D reconstruction and analysis of excavations, provides methods to reconstruct natural and artificial surfaces based on field measurements. This allows to spatially contextualize documented subunits and features. 
 
 ### Data Management and Cleaning
